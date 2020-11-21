@@ -1,16 +1,16 @@
-### Hi there 👋
+<!DOCTYPE html>
 
-<!--
-**zayash27/zayash27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<html>
 
-Here are some ideas to get you started:
+<head>
+     <title>Гари доорх шаардлагыг биелүүлнэ гэвэл яахав каллдаа эргэж орий</title>
+</head>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<body>
+     <li>Хэрүүлийн чанартай үг хэлэхгүй байх</li>
+     <li>Тоглоом шоглоомоо хязгаартай тоотой хийх</li>
+     <li>Карантин дуусахаар кофе авч өгөх</li>
+     
+</body>
+
+</html>
